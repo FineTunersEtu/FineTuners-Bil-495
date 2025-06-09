@@ -11,6 +11,7 @@ Merhaba! Bu doküman, BİL495 Bitirme Projesi kapsamında yürüttüğümüz ça
 | Hasan Uzun           | 211101038  | hasanuzunx                |
 | Utku Çetin           | 211101056  | UCTN                      |
 | Muhammet Emir Dizdar | 211401028  | mdizdar53                 |
+| Ahmet Faruk Sevim    | 211101029  | ahmetfaruksevim           |
 
 ---
 
